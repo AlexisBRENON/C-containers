@@ -1,0 +1,8 @@
+# Utilisation d'un rehachage quadratique et d'une taille de table
+# première (6007)
+
+1000 380000
+2000 390000
+3000 400000
+4000 440000
+5000 430000

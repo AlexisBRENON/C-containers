@@ -1,0 +1,7 @@
+# Utilisation d'un rehachage quadratique sur une table de 6000 entrées.
+
+1000 390000
+2000 390000
+3000 400000
+4000 430000
+5000 440000

@@ -1,0 +1,8 @@
+# Utilisation d'un rehachage linéaire et d'une taille de table
+# première (6007)
+
+1000 370000
+2000 390000
+3000 410000
+4000 430000
+5000 450000
